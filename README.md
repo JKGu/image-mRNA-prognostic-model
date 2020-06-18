@@ -79,7 +79,7 @@ All codes are implemented and tested on win10. However if you use other operatin
 
 Contact information
 -----
-Jun Cheng, Shenzhen University, Guangzhou, China. Email: chengjun583@qq.com
+Jun Cheng, Shenzhen University, Shenzhen, China. Email: chengjun583@qq.com
 
 References
 ---
